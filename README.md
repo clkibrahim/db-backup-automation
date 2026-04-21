@@ -1,5 +1,5 @@
 # BLM4522 Ağ Tabanlı Paralel Dağıtım Sistemleri - Proje Raporu
-
+## vize gösterim için: https://github.com/clkibrahim/blm4522_vize
 **Proje Konusu:** 7. Veritabanı Yedekleme ve Otomasyon Çalışması
 **Öğrenci:** İbrahim Çelik
 **Kullanılan Teknolojiler:** PostgreSQL, Docker, Shell Scripting, Linux Cron
