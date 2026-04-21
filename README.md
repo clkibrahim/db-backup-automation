@@ -1,7 +1,7 @@
 # BLM4522 Ağ Tabanlı Paralel Dağıtım Sistemleri - Proje Raporu
 
 **Proje Konusu:** 7. Veritabanı Yedekleme ve Otomasyon Çalışması
-**Öğrenci:** [Adınız Soyadınız] - [Öğrenci Numaranız]
+**Öğrenci:** İbrahim Çelik
 **Kullanılan Teknolojiler:** PostgreSQL, Docker, Shell Scripting, Linux Cron
 
 ## Proje Amacı
