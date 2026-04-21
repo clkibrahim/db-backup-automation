@@ -1,0 +1,9 @@
+# Veritabanı dosyaları
+data/
+
+# Alınan yedekler ve sistem logları (Gizlilik gereği git'e atılmaz)
+backups/
+logs/
+
+# Şifreleri barındıran ortam dosyası
+.env
